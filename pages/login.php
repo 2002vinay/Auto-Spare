@@ -47,6 +47,8 @@
 
                   
                     <h1 class="h4 text-gray-900 mb-4">Welcome </h1>
+                    
+                    <h1 class="h4 text-gray-900 mb-4">To Auto Spare  </h1>
                   </div>
                   <form class="user" role="form" action="processlogin.php" method="post">
                     <div class="form-group">
